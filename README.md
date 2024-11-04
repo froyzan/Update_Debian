@@ -12,6 +12,6 @@
 ```
 ## Usage/Запуск
 ```bash
-  chmod +x debian_upgrade.sh
-  sudo ./debian_upgrade.sh
+  chmod +x upgrade_debian.sh
+  sudo ./upgrade_debian.sh
 ```
